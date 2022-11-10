@@ -1,0 +1,3 @@
+/home/pasynkovnikita/CLionProjects/IAL-homework-2/cmake-build-debug/CMakeFiles/IAL_homework_2.dir
+/home/pasynkovnikita/CLionProjects/IAL-homework-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pasynkovnikita/CLionProjects/IAL-homework-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
